@@ -1,0 +1,11 @@
+C:\Users\Usuario\OneDrive - Universidad de Antioquia\Escritorio\Programacion2-main\Taller programación\Taller programación\bin\Debug\Taller programación.exe.config
+C:\Users\Usuario\OneDrive - Universidad de Antioquia\Escritorio\Programacion2-main\Taller programación\Taller programación\bin\Debug\Taller programación.exe
+C:\Users\Usuario\OneDrive - Universidad de Antioquia\Escritorio\Programacion2-main\Taller programación\Taller programación\bin\Debug\Taller programación.pdb
+C:\Users\Usuario\OneDrive - Universidad de Antioquia\Escritorio\Programacion2-main\Taller programación\Taller programación\obj\Debug\Taller programación.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive - Universidad de Antioquia\Escritorio\Programacion2-main\Taller programación\Taller programación\obj\Debug\Taller programación.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\OneDrive - Universidad de Antioquia\Escritorio\Programacion2-main\Taller programación\Taller programación\obj\Debug\Taller_programación.Form1.resources
+C:\Users\Usuario\OneDrive - Universidad de Antioquia\Escritorio\Programacion2-main\Taller programación\Taller programación\obj\Debug\Taller_programación.Properties.Resources.resources
+C:\Users\Usuario\OneDrive - Universidad de Antioquia\Escritorio\Programacion2-main\Taller programación\Taller programación\obj\Debug\Taller programación.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive - Universidad de Antioquia\Escritorio\Programacion2-main\Taller programación\Taller programación\obj\Debug\Taller programación.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - Universidad de Antioquia\Escritorio\Programacion2-main\Taller programación\Taller programación\obj\Debug\Taller programación.exe
+C:\Users\Usuario\OneDrive - Universidad de Antioquia\Escritorio\Programacion2-main\Taller programación\Taller programación\obj\Debug\Taller programación.pdb
